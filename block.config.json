@@ -1,0 +1,17 @@
+{
+  "name": "AuthenticationService",
+  "type": "raw-package",
+  "blockId": "wO7yXxbuo-V4qEsZpOLeo",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_AuthenticationService"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "golang"
+}
