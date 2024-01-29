@@ -3,8 +3,8 @@
   "type": "raw-package",
   "blockId": "wO7yXxbuo-V4qEsZpOLeo",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/neoito-hub/AuthenticationService.git",
+    "ssh": "git@github.com:neoito-hub/AuthenticationService.git",
     "branch": "block_AuthenticationService"
   },
   "parentBlockIDs": [],
