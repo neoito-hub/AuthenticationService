@@ -1,6 +1,6 @@
 {
   "name": "AuthenticationService",
-  "type": "raw-package",
+  "type": "containerized",
   "blockId": "wO7yXxbuo-V4qEsZpOLeo",
   "source": {
     "https": "https://github.com/neoito-hub/AuthenticationService.git",
